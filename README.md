@@ -19,6 +19,7 @@
     - 向阳大佬 [博客园：https://www.cnblogs.com/timlly/](https://www.cnblogs.com/timlly/)、[知乎](https://www.zhihu.com/people/timlly-chang/posts)
     - jerish的《Exploring in UE4》[https://www.zhihu.com/column/c_164452593](https://www.zhihu.com/column/c_164452593)
     - 南京周润发的《UE4随笔》[https://www.zhihu.com/column/c_1093468071653646336](https://www.zhihu.com/column/c_1093468071653646336)
+    - 查利鹏 [https://imzlp.com/categories/UnrealEngine/](https://imzlp.com/categories/UnrealEngine/)
     - 关注的知乎大V们 [https://www.zhihu.com/people/jiang-hu-fei-32/following](https://www.zhihu.com/people/jiang-hu-fei-32/following)
 - UE源码
     - [https://www.unrealengine.com/en-US/ue4-on-github](https://www.unrealengine.com/en-US/ue4-on-github)
@@ -41,18 +42,19 @@
     - youtube: [The Unreal Engine Game Framework: From int main\(\) to BeginPlay](https://www.youtube.com/watch?v=IaU2Hue-ApI)
     - [UE4 关于主循环的资料](https://zhuanlan.zhihu.com/p/225465983)
 - Lua
-    - [Lua官方手册](http://www.lua.org/manual/5.4/)
+    - [Lua官方手册](https://www.lua.org/manual/5.4/)
     - [参考手册](https://www.codingnow.com/2000/download/lua_manual.html)
     -  [UnLua的github](https://github.com/Tencent/UnLua)
     -  [Lua调试](https://zhuanlan.zhihu.com/p/396831309)
     -  [基于 UnLua 的 Lua 编程指南](https://ue5wiki.com/wiki/36659/)
+    -  [Unlua原理剖析](https://blog.csdn.net/zhangxiaofan666/article/details/111479431)
 - C++
     - 经典C++书籍《C++ Primer》 《Inside the C++ Object Model》《The Design and Evolution of C++》
     - [蓝图与C++](https://www.zhihu.com/question/268297447/answer/339624785)
     - [蓝图 VS C++](https://zhuanlan.zhihu.com/p/450520990)
     - [C++基础教程](http://c.biancheng.net/cplus/)
     - [虚幻C++进阶之路 | Epic 大钊](https://www.bilibili.com/video/BV1C7411F7RF)
-    - [UE4 & C++ ](https://www.bilibili.com/video/BV1nU4y1X7iQ)
+    - [UE4 & C++ by Tom Looman](https://www.bilibili.com/video/BV1nU4y1X7iQ)
     - [UE4的智能指针 TSharedPtr](https://zhuanlan.zhihu.com/p/371851019)
     - [UE4的智能指针 UObject相关](https://zhuanlan.zhihu.com/p/371851019)
 - 蓝图
@@ -67,6 +69,7 @@
     - [UE4蓝图解析（三）- 南京周润发](https://zhuanlan.zhihu.com/p/69556907)
     - [UE4蓝图解析（四）- 南京周润发](https://zhuanlan.zhihu.com/p/72253793)
     - [【UE5】GameplayMessageRouter 插件源码分析](https://zhuanlan.zhihu.com/p/494820956)
+    - [在蓝图实现任意类型数组排序](https://zhuanlan.zhihu.com/p/127344363)
 - 网络同步
     - [UE4_Network_Compendium_by_Cedric_eXi_Neukirchen](https://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf)
     - [《Exploring in UE4》关于网络同步的理解与思考[概念理解]](https://zhuanlan.zhihu.com/p/34721113)
@@ -91,6 +94,7 @@
         - [UE4 高级运动系统（Advanced Locomotion System V4）解构](https://zhuanlan.zhihu.com/p/339422628)
         - [UE4 动画节点- Layered blend per bone](https://zhuanlan.zhihu.com/p/343826476)
         - [玩转UE4/UE5动画系统](https://www.zhihu.com/column/c_1368817227106471936)
+        - [UE4 动画系统 源码及原理剖析](http://t.csdn.cn/9ZgYW)
     - 视频
         - [08.游戏引擎的动画技术基础\(上\) | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1jr4y1t7WR/)
         - [08.游戏引擎的动画技术基础\(下\) | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1fF411j7hA/)
@@ -101,20 +105,32 @@
         - [UE4-高级运动系统中文-解构\(Advanced Locomotion System V4\)](https://www.bilibili.com/video/BV1sV411b7x6)
         - [Animation Blueprint Setup & Walkthrough](https://www.youtube.com/playlist?list=PLCYUI4mIdqDdxG1oat5uXS6P-U2nR_bNY)
 - AI
-    - [UE4行为树详解（持续更新）](https://zhuanlan.zhihu.com/p/143298443)
-    - [UE4 行为树使用源码版](https://zhuanlan.zhihu.com/p/512649286)
-    - [浅析UE4-BehaviorTree的特性](https://zhuanlan.zhihu.com/p/139514376)
-    - [UE4学习笔记--AI行为树架构](https://blog.csdn.net/gzy252050968/article/details/87275524)
+    - [【伏羲讲堂】游戏AI行为选择算法一览](https://zhuanlan.zhihu.com/p/379978251)  
+    - [17.游戏引擎Gameplay玩法系统：高级AI (Part 1) | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1iG4y1i78Q?vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
     - [UE4学习笔记--AI感知系统AIPerception](https://blog.csdn.net/gzy252050968/article/details/103390487)
     - [UE4场景询问系统浅析（EQS与行为树）](http://www.uejoy.com/?p=500)
-    - [Unreal Engine AI with Behavior Trees](https://www.youtube.com/watch?v=iY1jnFvHgbE)
-    - [ue4 自定义行为树的Service， Task，Decorator节点](https://blog.csdn.net/u010385624/article/details/89339958) 
-    - [【图解UE4源码】 其三（一）行为树系统执行任务的流程 发起执行请求](https://zhuanlan.zhihu.com/p/372256253)
-    - [【图解UE4源码】 其三（二）行为树系统执行任务的流程 处理请求](https://zhuanlan.zhihu.com/p/373072168)     
-    - [【伏羲讲堂】游戏AI行为选择算法一览](https://zhuanlan.zhihu.com/p/379978251)  
-    - [17.游戏引擎Gameplay玩法系统：高级AI (Part 1) | GAMES104-现代游戏引擎：从入门到实践
-](https://www.bilibili.com/video/BV1iG4y1i78Q?vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
-    - HTN插件[Hierarchical Task Networks](https://maksmaisak.github.io/htn/#/README)
+    - Navigation
+        - [Recast & Detour](https://github.com/recastnavigation/recastnavigation)
+        - [谷阿莫带你十分钟看完 NavMesh 生成算法](https://wo1fsea.github.io/2016/08/21/A_Quick_Introduction_to_NavMesh/)
+        - [recastnavigation源码解析](https://zhuanlan.zhihu.com/p/484520809)
+        - [UE4 Navmesh寻路（一）Recast基础](https://zhuanlan.zhihu.com/p/74537236)
+        - [\[游戏开发\] Recast Navmesh源码剖析 - 02 Meadow Mapping](https://www.bilibili.com/video/BV19G4y187Fz/?spm_id_from=pageDriver&vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
+        - [【\[游戏开发\] Recast Navmesh源码剖析 - 03 Voxelization爬墙】](https://www.bilibili.com/video/BV1W24y1272D/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
+        - [UE4 Navmesh寻路（二）Detour寻路](https://zhuanlan.zhihu.com/p/78873379)
+        - [NavMesh生成研究（四）：凸多边形生成](https://blog.csdn.net/needmorecode/article/details/81807071)
+    - 行为树
+        - [UE4行为树详解（持续更新）](https://zhuanlan.zhihu.com/p/143298443)
+        - [UE4 行为树使用源码版](https://zhuanlan.zhihu.com/p/512649286)
+        - [浅析UE4-BehaviorTree的特性](https://zhuanlan.zhihu.com/p/139514376)
+        - [UE4学习笔记--AI行为树架构](https://blog.csdn.net/gzy252050968/article/details/87275524)
+        - [Unreal Engine AI with Behavior Trees](https://www.youtube.com/watch?v=iY1jnFvHgbE)
+        - [ue4 自定义行为树的Service， Task，Decorator节点](https://blog.csdn.net/u010385624/article/details/89339958) 
+        - [【图解UE4源码】 其三（一）行为树系统执行任务的流程 发起执行请求](https://zhuanlan.zhihu.com/p/372256253)
+        - [【图解UE4源码】 其三（二）行为树系统执行任务的流程 处理请求](https://zhuanlan.zhihu.com/p/373072168)     
+    - HTN
+        - HTN插件官方文档[Hierarchical Task Networks](https://maksmaisak.github.io/htn/#/README)
+    - 状态树
+        - [从行为树到状态树](https://www.bilibili.com/video/BV1ed4y1b7Zk)
 - GAS
     - [官方GAS文档](https://docs.unrealengine.com/4.26/zh-CN/InteractiveExperiences/GameplayAbilitySystem/)
     - [官方ARPG例子](https://docs.unrealengine.com/4.26/zh-CN/Resources/SampleGames/ARPG/)
@@ -149,24 +165,33 @@
     - [《Exploring in UE4》RootMotion详解](https://zhuanlan.zhihu.com/p/74554876)
     - [RootMotion官方文档](https://docs.unrealengine.com/4.27/zh-CN/AnimatingObjects/SkeletalMeshAnimation/RootMotion/)
    
-- 资源管理、热更新、Pak
+- 资源管理
     - [UE4：Asset Manager 学习笔记](https://zhuanlan.zhihu.com/p/360543561)
     - [UE4的资源管理 quabqi](https://zhuanlan.zhihu.com/p/357904199)
     - [UE4 AssetRegistry分析 南京周润发](https://zhuanlan.zhihu.com/p/76964514)
     - [虚幻引擎资产管理总结](https://zhuanlan.zhihu.com/p/503069332)
-    - [聊一聊UE4中的pak](https://zhuanlan.zhihu.com/p/333857439)
     - [\[英文直播\]Asset Manager 阐述 | Asset Manager Explained\(官方字幕\)](https://www.bilibili.com/video/BV1ag41177C1/)
     - [\[中文直播\]第33期 | UE4资产管理基础1 | Epic 大钊](https://www.bilibili.com/video/BV1Mr4y1A7nZ/)
+- 热更新、Pak
+    - [UE热更新的原理与实现 | 查利鹏](https://www.bilibili.com/medialist/play/ml1019964185/BV1d841187Pt?spm_id_from=333.999.0.0&oid=220175400&otype=2)
+    - [虚幻引擎4全平台热更新方案 | 查利鹏](https://www.bilibili.com/video/BV1ir4y1c76g/)   
     - [Cooking and Chunking](https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/Patching/GeneralPatching/CookingAndChunking/)
+    - [UE 资源管理：引擎打包资源分析](https://imzlp.com/posts/22570/) 
+    - [UE 资源热更打包工具 HotPatcher](https://imzlp.com/posts/17590/)
+    - [聊一聊UE4中的pak](https://zhuanlan.zhihu.com/p/333857439)
 - 物理
     - [10.游戏引擎中物理系统的基础理论和算法 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV16U4y117VU)
     - [11.物理系统：高级应用 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1Ya411j7ds)
 - 载具
-- UMG
+- UMG   
+    - [Anchors](https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/UMG/UserGuide/Anchors/)
+    - [NameSlot](https://www.cnblogs.com/timy/p/10310078.html)
 - 相机
     - [《Exploring in UE4》摄像机系统解析 ](https://zhuanlan.zhihu.com/p/34897458)
 - 粒子
     - [12.游戏引擎中的粒子和声效系统 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1bU4y1R7x5?vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
+- 编辑器
+    - [虚幻引擎 4 的编辑器扩展 柴云天](https://www.bilibili.com/video/BV1bs411H7Kd?p=14&vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
 - 3D数学
     - 《3D数学基础：图形与游戏开发》矩阵变换
 - UObject
@@ -222,6 +247,8 @@
         - [GAMES104-现代游戏引擎：从入门到实践21.动态全局光照和Lumen \(Part 2\)  ](https://www.bilibili.com/video/BV1Ya411g7Th/?spm_id_from=pageDriver&vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
         - [GAMES104-现代游戏引擎：从入门到实践22.GPU驱动的几何管线-nanite \(Part 1\) ](https://www.bilibili.com/video/BV1Et4y1P7ro/)
         - [GAMES104-现代游戏引擎：从入门到实践22.GPU驱动的几何管线-nanite \(Part 2\)](https://www.bilibili.com/video/BV17G4y1x7VX/)
+        - UE多线程渲染
+            - [UE多线程渲染](https://www.bilibili.com/video/BV1sP4y117Dg) 
     - 技术分享
         - [米哈游技术总监首次分享：移动端高品质卡通渲染的实现与优化方案](https://mp.weixin.qq.com/s/2ObPsPQGPkvPyiLD33wqWQ)
     
@@ -233,8 +260,6 @@
     
     
 ---
->[印象笔记地址](https://app.yinxiang.com/fx/d94123c1-cde8-4ba2-add8-e0e0592c37fe)
->[本文知乎地址](https://zhuanlan.zhihu.com/p/452813815)
-    
-    
-    
+>[印象笔记](https://app.yinxiang.com/fx/d94123c1-cde8-4ba2-add8-e0e0592c37fe)
+>[知乎](https://zhuanlan.zhihu.com/p/452813815)
+>[github](https://github.com/kissSimple/UE_Treasures.git)
