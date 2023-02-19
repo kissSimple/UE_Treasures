@@ -57,12 +57,17 @@
     - [UE4 & C++ by Tom Looman](https://www.bilibili.com/video/BV1nU4y1X7iQ)
     - [UE4的智能指针 TSharedPtr](https://zhuanlan.zhihu.com/p/371851019)
     - [UE4的智能指针 UObject相关](https://zhuanlan.zhihu.com/p/371851019)
+    - [UE4 Modules](https://docs.google.com/presentation/d/1rSFFQk7RxNAHevROfVvUNviUfIntLkO_HpdvzHLkNEs/view#slide=id.g6e0e4b3bcf_2_45)
 - 蓝图
+    - [深入Unreal蓝图开发 -房燕良](https://www.zhihu.com/column/blueprints-in-depth)
+     - [深入Unreal蓝图开发：理解蓝图技术架构 - 房燕良](https://neil3d.blog.csdn.net/article/details/103221164)
+    - [通过派生class UK2Node创建自定义蓝图节点 - 房燕良](https://zhuanlan.zhihu.com/p/84958215)
+    - [实现蓝图节点的动态添加/删除Pin - 房燕良](https://zhuanlan.zhihu.com/p/86231216)
+    - [使用Node Handler定制蓝图节点的编译过程 - 房燕良](https://zhuanlan.zhihu.com/p/87489168)
     - [蓝图编译器概述](https://docs.unrealengine.com/4.27/zh-CN/ProgrammingAndScripting/Blueprints/TechnicalGuide/Compiler/)
     - [虚幻4蓝图虚拟机剖析 - 风恋残雪](https://www.cnblogs.com/ghl_carmack/p/6060383.html)
     - [虚幻4蓝图编译剖析（二） - 风恋残雪](https://www.cnblogs.com/ghl_carmack/p/5998693.html)
     - [虚幻4蓝图编译剖析（三） - 风恋残雪 - 博客园](https://www.cnblogs.com/ghl_carmack/p/6014655.html)
-    - [深入Unreal蓝图开发：理解蓝图技术架构](https://neil3d.blog.csdn.net/article/details/103221164)
     - [Unreal 蓝图底层实现机制](https://www.wyfnote.com/2022/01/08/UE4/UE4CPP/Unreal%20%E8%93%9D%E5%9B%BE%E5%BA%95%E5%B1%82%E5%AE%9E%E7%8E%B0%E6%9C%BA%E5%88%B6/) 
     - [UE4蓝图解析（一）- 南京周润发](https://zhuanlan.zhihu.com/p/69067129)
     - [UE4蓝图解析（二）- 南京周润发](https://zhuanlan.zhihu.com/p/69552168)
@@ -79,7 +84,10 @@
     - [《UE4深入浅出》UE4网络同步-基础流程](https://zhuanlan.zhihu.com/p/532800522)
     - [UE4网络同步详解](https://zhuanlan.zhihu.com/p/533754693)
     - [UE4网络同步-客户端连接DS的流程](https://zhuanlan.zhihu.com/p/533748683)
+    - [UE4属性同步（一）服务器同步属性 - 南京周润发](https://zhuanlan.zhihu.com/p/412517987)
+    - [UE4属性同步（三）UObject同步 - 南京周润发](知乎https://zhuanlan.zhihu.com/p/590990669)
     - [《Exploring in UE4》Unreal回放系统剖析](https://zhuanlan.zhihu.com/p/564017214)
+    - [浅析UE5 DS的断线重连机制 - YXY爱猫猫](https://zhuanlan.zhihu.com/p/600034328)
 - 角色移动网络同步
     - [官方文档：角色移动组件的详细说明](https://docs.unrealengine.com/4.27/zh-CN/InteractiveExperiences/Networking/CharacterMovementComponent/)
     - [UE4的移动碰撞](https://zhuanlan.zhihu.com/p/33529865)
@@ -131,6 +139,11 @@
         - HTN插件官方文档[Hierarchical Task Networks](https://maksmaisak.github.io/htn/#/README)
     - 状态树
         - [从行为树到状态树](https://www.bilibili.com/video/BV1ed4y1b7Zk)
+- Mass
+        - [UOD2022 不Mass怎么Meta | Epic 大钊](https://www.bilibili.com/video/BV13D4y1v7xx)
+        - [中文直播 第41期 | 智珠在握 - 这个SmartObject被我承包了！| Epic 大钊](https://www.bilibili.com/video/BV19U4y1Q7Pt/)
+        - [UE5的ECS：MASS框架\(一\) - quabqi](https://zhuanlan.zhihu.com/p/441773595)
+        - [UE5的ECS：MASS框架\(三\) - quabqi](https://zhuanlan.zhihu.com/p/477803528)
 - GAS
     - [官方GAS文档](https://docs.unrealengine.com/4.26/zh-CN/InteractiveExperiences/GameplayAbilitySystem/)
     - [官方ARPG例子](https://docs.unrealengine.com/4.26/zh-CN/Resources/SampleGames/ARPG/)
@@ -173,8 +186,8 @@
     - [\[英文直播\]Asset Manager 阐述 | Asset Manager Explained\(官方字幕\)](https://www.bilibili.com/video/BV1ag41177C1/)
     - [\[中文直播\]第33期 | UE4资产管理基础1 | Epic 大钊](https://www.bilibili.com/video/BV1Mr4y1A7nZ/)
 - 热更新、Pak
-    - [UE热更新的原理与实现 | 查利鹏](https://www.bilibili.com/medialist/play/ml1019964185/BV1d841187Pt?spm_id_from=333.999.0.0&oid=220175400&otype=2)
-    - [虚幻引擎4全平台热更新方案 | 查利鹏](https://www.bilibili.com/video/BV1ir4y1c76g/)   
+    - [[UOD2022]UE热更新的原理与实现 | 查利鹏](https://www.bilibili.com/medialist/play/ml1019964185/BV1d841187Pt?spm_id_from=333.999.0.0&oid=220175400&otype=2)
+    - [[UOD2020]虚幻引擎4全平台热更新方案 | 查利鹏](https://www.bilibili.com/video/BV1ir4y1c76g/)   
     - [Cooking and Chunking](https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/Patching/GeneralPatching/CookingAndChunking/)
     - [UE 资源管理：引擎打包资源分析](https://imzlp.com/posts/22570/) 
     - [UE 资源热更打包工具 HotPatcher](https://imzlp.com/posts/17590/)
@@ -205,10 +218,11 @@
     - [UE4 UObject 对象概念](https://zhuanlan.zhihu.com/p/419769230)
     - [用UObjectHashTables管理UObjectHash](https://zhuanlan.zhihu.com/p/464960701)
 - 反射
-        - [UE 反射实现分析：基础概念](https://ue5wiki.com/wiki/12624/)
-        - [UE 反射实现分析：反射代码生成（一）](https://ue5wiki.com/wiki/9780/)
-        - [属性反射实现分析](https://ue5wiki.com/wiki/34497/)
-        - [UClass的诞生与成长](https://www.wyfnote.com/2021/11/08/UE4/UE4CPP/UClass%E7%9A%84%E8%AF%9E%E7%94%9F%E4%B8%8E%E6%88%90%E9%95%BF/)
+    - [UE 反射实现分析：基础概念](https://ue5wiki.com/wiki/12624/)
+    - [UE 反射实现分析：反射代码生成（一）](https://ue5wiki.com/wiki/9780/)
+    - [属性反射实现分析](https://ue5wiki.com/wiki/34497/)
+    - [UClass的诞生与成长](https://www.wyfnote.com/2021/11/08/UE4/UE4CPP/UClass%E7%9A%84%E8%AF%9E%E7%94%9F%E4%B8%8E%E6%88%90%E9%95%BF/)
+    - [UE5的StructUtils - quabqi](https://zhuanlan.zhihu.com/p/601008587)
 - 内存分配
     - [UE内存分配](https://www.cnblogs.com/timlly/p/13877623.html#143-%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D)
 - GC
@@ -229,9 +243,10 @@
     - 书籍  
         - 《Fundamentals of Computer-Graphics》
         - 《Real Time Rendering》
-    - 渲染基础概念        
+    - 渲染概念        
         - [Gamma & Linear Color Space](https://www.jianshu.com/p/321f39b7fa93)
         - [彻底看懂PBR/BRDF方程](https://zhuanlan.zhihu.com/p/158025828)
+        - [细说图形学渲染管线 - 学无止境](https://positiveczp.github.io/%E7%BB%86%E8%AF%B4%E5%9B%BE%E5%BD%A2%E5%AD%A6%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF.html)
     - 图形渲染收藏夹 [https://www.zhihu.com/collection/593543973](https://www.zhihu.com/collection/593543973)  
     - GPU
         - [深入GPU硬件架构及运行机制](https://www.cnblogs.com/timlly/p/11471507.html)
@@ -243,8 +258,11 @@
         - [剖析虚幻渲染体系（05）- 光源和阴影](https://www.cnblogs.com/timlly/p/14817455.html)
         - [剖析虚幻渲染体系（08）- Shader体系 ](https://www.cnblogs.com/timlly/p/15092257.html)
         - [剖析虚幻渲染体系（09）- 材质体系](https://www.cnblogs.com/timlly/p/15109132.html)
+        - [【[中文直播]第42期 | Lumen高品质渲染解析 | Epic 纪大伟】 ](https://www.bilibili.com/video/BV15d4y1V7p9/)
         - [ GAMES104-现代游戏引擎：从入门到实践21.动态全局光照和Lumen \(Part 1\) ](https://www.bilibili.com/video/BV1oe411u7DJ/?spm_id_from=333.788&vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
         - [GAMES104-现代游戏引擎：从入门到实践21.动态全局光照和Lumen \(Part 2\)  ](https://www.bilibili.com/video/BV1Ya411g7Th/?spm_id_from=pageDriver&vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
+        - [UnrealCircle Nanite技术简介 | Epic Games China 王祢](https://www.bilibili.com/video/BV1MP4y1a7Hh/)
+        - [英文直播 Nanite探讨 | Nanite(官方字幕)](https://www.bilibili.com/video/BV1Vy4y1g7zH/)
         - [GAMES104-现代游戏引擎：从入门到实践22.GPU驱动的几何管线-nanite \(Part 1\) ](https://www.bilibili.com/video/BV1Et4y1P7ro/)
         - [GAMES104-现代游戏引擎：从入门到实践22.GPU驱动的几何管线-nanite \(Part 2\)](https://www.bilibili.com/video/BV17G4y1x7VX/)
         - UE多线程渲染
@@ -256,10 +274,12 @@
 ---
 - UE知识树
     - [印象笔记地址](https://app.yinxiang.com/fx/b8036eb6-dddd-4d4e-af8b-2e33abcaf135)
-    - ![fe19e41522022d2a3c8910f7fca73d0f.png](evernotecid://21EF1662-8574-45E7-B5F2-20E6FF8203C4/appyinxiangcom/30731409/ENResource/p1053)
+    - ![71f9d8b102826e918d3f728f62b87c86.png](evernotecid://21EF1662-8574-45E7-B5F2-20E6FF8203C4/appyinxiangcom/30731409/ENResource/p1802)
+    
     
     
 ---
 >[印象笔记](https://app.yinxiang.com/fx/d94123c1-cde8-4ba2-add8-e0e0592c37fe)
 >[知乎](https://zhuanlan.zhihu.com/p/452813815)
 >[github](https://github.com/kissSimple/UE_Treasures.git)
+
