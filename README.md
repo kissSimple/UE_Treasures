@@ -55,8 +55,11 @@
 ### EnhancedInput
 -  [【\[中文直播\]第39期 | 虎跳龙拿--新一代增强输入框架EnhancedInput | Epic 大钊】](https://www.bilibili.com/video/BV14r4y1r7nz/)
 -  [UE5 -- EnhancedInput\(增强输入系统\) - 易米八一 - 知乎](https://zhuanlan.zhihu.com/p/470949422)
+### 背包、装备
+[UE5 Lyra项目学习（三） 背包，装备，武器模块 - 知乎](https://zhuanlan.zhihu.com/p/598305282)
 
-## C++
+## 编程语言、脚本
+### C++
 - 经典C++书籍《C++ Primer》 《Inside the C++ Object Model》《The Design and Evolution of C++》
 - [C++基础教程](http://c.biancheng.net/cplus/)
 - [虚幻C++进阶之路 | Epic 大钊](https://www.bilibili.com/video/BV1C7411F7RF)
@@ -82,7 +85,7 @@
 - 内存错误检测
     - [AddressSanitizerAlgorithm](https://github.com/google/sanitizers/wiki/AddressSanitizerAlgorithm)
 
-## 蓝图
+### 蓝图
 - [通过派生class UK2Node创建自定义蓝图节点 - 房燕良](https://zhuanlan.zhihu.com/p/84958215)
 - [实现蓝图节点的动态添加/删除Pin - 房燕良](https://zhuanlan.zhihu.com/p/86231216)
 - [【UE5】GameplayMessageRouter 插件源码分析](https://zhuanlan.zhihu.com/p/494820956)
@@ -102,19 +105,20 @@
    - [UE4蓝图解析（三）- 南京周润发](https://zhuanlan.zhihu.com/p/69556907)
    - [UE4蓝图解析（四）- 南京周润发](https://zhuanlan.zhihu.com/p/72253793)
 
-## Lua
+### Lua
 - [Lua官方手册](https://www.lua.org/manual/5.4/)
 - [参考手册 云风](https://www.codingnow.com/2000/download/lua_manual.html)
-### Lua GC
+#### Lua GC
 - [Garbage Collection in Lua - Roberto Ierusalimschy](https://www.lua.org/wshop18/Ierusalimschy.pdf)
 - [Lua GC 的工作原理 - 云风](https://blog.codingnow.com/2018/10/lua_gc.html)
-### UnLua
+#### UnLua
     -  [UnLua的github](https://github.com/Tencent/UnLua)
     -  [UE4下UnLua初使用和Lua调试](https://zhuanlan.zhihu.com/p/396831309)
     -  [基于 UnLua 的 Lua 编程指南](https://ue5wiki.com/wiki/36659/)
     -  [Unlua原理剖析](https://blog.csdn.net/zhangxiaofan666/article/details/111479431)
     - [UnLua智能提示](https://github.com/Tencent/UnLua/blob/master/Docs/CN/IntelliSense.md)
-## UMG   
+## UI
+### UMG   
 - [Anchors](https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/UMG/UserGuide/Anchors/)
 - [NameSlot](https://docs.unrealengine.com/5.3/en-US/using-named-slot-widgets-for-ui-templates-in-unreal-engine/)
 - [【UE5】WidgetComponent的进阶使用 - 旺仔好喝](https://zhuanlan.zhihu.com/p/512273602)
@@ -264,6 +268,21 @@
     - [https://www.bilibili.com/video/BV1Ap4y1q7L9](https://www.bilibili.com/video/BV1Ap4y1q7L9)
     - [https://www.bilibili.com/video/BV1uD4y1U7Nz](https://www.bilibili.com/video/BV1uD4y1U7Nz)
 
+## 大世界
+### World Partition
+- [World Partition浅析（四）- 陌冉](
+https://zhuanlan.zhihu.com/p/384487506)
+- [Unreal Engine 5 开放世界制作 - Italink](https://zhuanlan.zhihu.com/p/670363215)
+- [UE5的World Partition - quabqi](https://zhuanlan.zhihu.com/p/675514420)
+### PCG
+- [Procedural Content Generation Overview](https://docs.unrealengine.com/5.2/en-US/procedural-content-generation-overview/)
+- [Introduction to PCG Workflows in Unreal Engine 5 | Unreal Fest 2023](https://www.youtube.com/watch?v=LMQDCEiLaQY)
+- [\[UnrealCircle苏州\]《Electric Dreams》项目PCG技术解析 | 王潇]( https://www.bilibili.com/video/BV1Uu4y1i7CL/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
+- [『UE5 PCG』官方公开课：深入研究Electric Dreams环境项目]( https://www.bilibili.com/video/BV1y8411U7Hs/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
+- [Electric Dreams PCG技术详解（一）——术语、工具和图表介绍](https://mp.weixin.qq.com/s/mGWiPKvWU_NHTktIWA6LnA)
+- [Electric Dreams PCG技术详解（二）——沟壑、大型Assembly](https://mp.weixin.qq.com/s/xHdnrFTkywF_7OjqOuALbw)
+- [Electric Dreams PCG技术详解（三）——森林、岩石和场景背景](https://mp.weixin.qq.com/s/YWcd8l-VphNLrOlg3zkSzA)
+- [Electric Dreams PCG技术详解（四）——远景、雾气、自定义节点及子图表](https://mp.weixin.qq.com/s/CWTUcRIBTXw8WvhX3jrcBw?poc_token=HAo7c2WjSnpSCvQrSxn-FgoWdSsvm3Zr2tggFZbt)
 ## 资源管理
 - [UE4：Asset Manager 学习笔记](https://zhuanlan.zhihu.com/p/360543561)
 - [UE4的资源管理 quabqi](https://zhuanlan.zhihu.com/p/357904199)
@@ -280,28 +299,15 @@
 - [UE 资源热更打包工具 HotPatcher](https://imzlp.com/posts/17590/)
 - [聊一聊UE4中的pak](https://zhuanlan.zhihu.com/p/333857439)
 
-## 大世界
-### World Partition
-- [World Partition浅析（四）- 陌冉](
-https://zhuanlan.zhihu.com/p/384487506)
-- [Unreal Engine 5 开放世界制作 - Italink](https://zhuanlan.zhihu.com/p/670363215)
-- [UE5的World Partition - quabqi](https://zhuanlan.zhihu.com/p/675514420)
-### PCG
-- [Procedural Content Generation Overview](https://docs.unrealengine.com/5.2/en-US/procedural-content-generation-overview/)
-- [Introduction to PCG Workflows in Unreal Engine 5 | Unreal Fest 2023](https://www.youtube.com/watch?v=LMQDCEiLaQY)
-- [\[UnrealCircle苏州\]《Electric Dreams》项目PCG技术解析 | 王潇]( https://www.bilibili.com/video/BV1Uu4y1i7CL/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
-- [『UE5 PCG』官方公开课：深入研究Electric Dreams环境项目]( https://www.bilibili.com/video/BV1y8411U7Hs/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
-- [Electric Dreams PCG技术详解（一）——术语、工具和图表介绍](https://mp.weixin.qq.com/s/mGWiPKvWU_NHTktIWA6LnA)
-- [Electric Dreams PCG技术详解（二）——沟壑、大型Assembly](https://mp.weixin.qq.com/s/xHdnrFTkywF_7OjqOuALbw)
-- [Electric Dreams PCG技术详解（三）——森林、岩石和场景背景](https://mp.weixin.qq.com/s/YWcd8l-VphNLrOlg3zkSzA)
-- [Electric Dreams PCG技术详解（四）——远景、雾气、自定义节点及子图表](https://mp.weixin.qq.com/s/CWTUcRIBTXw8WvhX3jrcBw?poc_token=HAo7c2WjSnpSCvQrSxn-FgoWdSsvm3Zr2tggFZbt)
+## 粒子
+- [12.游戏引擎中的粒子和声效系统 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1bU4y1R7x5?vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
 
 ## 调试
 - [Advanced Debugging in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/dXl5/advanced-debugging-in-unreal-engine)
 - [UFSH2023 总有一个你不知道的虚幻引擎调试技巧 | 陈拓 Epic Games】](https://www.bilibili.com/video/BV1iQ4y1j73A/)
-
-## 粒子
-- [12.游戏引擎中的粒子和声效系统 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1bU4y1R7x5?vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
+## 性能分析、优化
+- [Unreal Insights官方文档](https://docs.unrealengine.com/5.1/zh-CN/unreal-insights-in-unreal-engine/)
+- [Unreal Insights视频](https://dev.epicgames.com/community/learning/livestreams/xpz/unreal-insights-live-from-hq-inside-unreal)
 
 ## 编辑器
 - [虚幻引擎 4 的编辑器扩展 柴云天](https://www.bilibili.com/video/BV1bs411H7Kd?p=14&vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
@@ -312,51 +318,7 @@ https://zhuanlan.zhihu.com/p/384487506)
 - [【UE4】编辑器开发（三）资源类型拓展 - 胡嘿嘿](https://zhuanlan.zhihu.com/p/135315547)
 - [【UE4】编辑器开发（一）关卡编辑器拓展 - 胡嘿嘿](https://zhuanlan.zhihu.com/p/129708783)
 
-## 3D数学
-- 《3D数学基础：图形与游戏开发》矩阵变换
-## UObject
-- 大钊的UObject系列
-    - [《InsideUE4》UObject（一）开篇](https://zhuanlan.zhihu.com/p/24319968)
-    - [《InsideUE4》UObject（三）类型系统设定和结构](https://zhuanlan.zhihu.com/p/24790386) 
-    - [《InsideUE4》UObject（六）类型系统代码生成重构-UE4CodeGen_Private](https://zhuanlan.zhihu.com/p/34059049)
-    - [《InsideUE4》UObject（九）类型系统注册-InitUObject](https://zhuanlan.zhihu.com/p/58244447)
-    - [《InsideUE4》UObject（十一）类型系统构造-构造绑定链接](https://zhuanlan.zhihu.com/p/59553490)
-- [Ue4关于uobject优秀文摘](https://zhuanlan.zhihu.com/p/435484362)
-- [UE4 UObject 对象概念](https://zhuanlan.zhihu.com/p/419769230)
-- [用UObjectHashTables管理UObjectHash](https://zhuanlan.zhihu.com/p/464960701)
-## 反射
-- [UE 反射实现分析：基础概念](https://ue5wiki.com/wiki/12624/)
-- [UE 反射实现分析：反射代码生成（一）](https://ue5wiki.com/wiki/9780/)
-- [属性反射实现分析](https://ue5wiki.com/wiki/34497/)
-- [UClass的诞生与成长](https://www.wyfnote.com/2021/11/08/UE4/UE4CPP/UClass%E7%9A%84%E8%AF%9E%E7%94%9F%E4%B8%8E%E6%88%90%E9%95%BF/)
-- [UE5的StructUtils - quabqi](https://zhuanlan.zhihu.com/p/601008587)
-## GC
-- [UE4 垃圾回收 by南京周润发](https://zhuanlan.zhihu.com/p/67055774)
-- [UE4 垃圾回收（二）GC Cluster by南京周润发](https://zhuanlan.zhihu.com/p/133293284)
-- [UE4 垃圾收集大杂烩](https://zhuanlan.zhihu.com/p/219588301)
-- [Garbage Collector Internals](https://forums.unrealengine.com/docs?topic=501800)
-## 序列化
-- [UE4对象系统_序列化和uasset文件格式](https://www.jianshu.com/p/9fea500aaa4d)
-- [浅谈UE4序列化系列\(1\) 结合用例浅谈 UE4序列化 - 佐味](https://zhuanlan.zhihu.com/p/426853528)
-- [Ue4_序列化浅析](https://blog.csdn.net/mohuak/article/details/83027211?ivk_sa=1024320u)
-- [深入理解UE4：反序列化流程详细分析 - 蛋丁的人参](https://zhuanlan.zhihu.com/p/96870468)
-- [Investigating blueprint data loss issues in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/oEn6/investigating-blueprint-data-loss-issues-in-unreal-engine)
-## 内存分配
-- [UE内存分配](https://www.cnblogs.com/timlly/p/13877623.html#143-%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D)
-- [UE4 MallocBinned分配器 - 南京周润发]( https://zhuanlan.zhihu.com/p/393382059)
-- [UE4 MallocBinned2分配器 - 南京周润发]( https://zhuanlan.zhihu.com/p/79715624)
-- [Mimalloc: Free List Sharding in Action](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf)
-## 多线程、Task Graph
-- [UE的多线程机制](https://www.cnblogs.com/timlly/p/14327537.html#24-ue%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B%E6%9C%BA%E5%88%B6)
-- Memory Order内存序
-## 性能分析、优化
-- [Unreal Insights官方文档](https://docs.unrealengine.com/5.1/zh-CN/unreal-insights-in-unreal-engine/)
-- [Unreal Insights视频](https://dev.epicgames.com/community/learning/livestreams/xpz/unreal-insights-live-from-hq-inside-unreal)
-## Tim Sweeney演讲
-- [Classic Tools Retrospective: Tim Sweeney on the first version of the Unreal Editor](https://www.gamedeveloper.com/design/classic-tools-retrospective-tim-sweeney-on-the-first-version-of-the-unreal-editor)
-- [On Netcode in Unreal Engine \(historical\) by Tim Sweeney:](https://docs.google.com/document/d/1KGLbEfHsWANTTgUqfK6rkpFYDGvnZYj-BN18sxq6LPY/edit)
-- [THE END OF THE GPU ROADMAP](https://disruptiveludens.files.wordpress.com/2018/02/timhpg2009.pdf)
-- [Tim Sweeney Archive - Interviews](http://docshare01.docshare.tips/files/9/93932.pdf)
+
 ## 图形渲染
 ### 图形学经典教程
 - [LearnOpenGL英文](https://learnopengl.com/)、[LearnOpenGL中文](https://learnopengl-cn.github.io/)
@@ -431,15 +393,58 @@ DepthPass、GBuffer、lighting
 - [\[UFSH2023\]渲染路线图：更快更真实、更多数据和像素 | 王祢 Epic Games](https://www.bilibili.com/video/BV1Qi4y1q7v2/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
 - UE多线程渲染
     - [UE多线程渲染](https://www.bilibili.com/video/BV1sP4y117Dg) 
-
 - VirtualTexture
     - [【\[UnrealCircle深圳\]深入虚拟纹理 | Epic 李杨珂】](https://www.bilibili.com/video/BV1CA411N7Qa/)
+
 ### 技术分享
 - [米哈游技术总监首次分享：移动端高品质卡通渲染的实现与优化方案](https://mp.weixin.qq.com/s/2ObPsPQGPkvPyiLD33wqWQ)
-    
+
+
+## Core
+### UObject
+- 大钊的UObject系列
+    - [《InsideUE4》UObject（一）开篇](https://zhuanlan.zhihu.com/p/24319968)
+    - [《InsideUE4》UObject（三）类型系统设定和结构](https://zhuanlan.zhihu.com/p/24790386) 
+    - [《InsideUE4》UObject（六）类型系统代码生成重构-UE4CodeGen_Private](https://zhuanlan.zhihu.com/p/34059049)
+    - [《InsideUE4》UObject（九）类型系统注册-InitUObject](https://zhuanlan.zhihu.com/p/58244447)
+    - [《InsideUE4》UObject（十一）类型系统构造-构造绑定链接](https://zhuanlan.zhihu.com/p/59553490)
+- [Ue4关于uobject优秀文摘](https://zhuanlan.zhihu.com/p/435484362)
+- [UE4 UObject 对象概念](https://zhuanlan.zhihu.com/p/419769230)
+- [用UObjectHashTables管理UObjectHash](https://zhuanlan.zhihu.com/p/464960701)
+### 反射
+- [UE 反射实现分析：基础概念](https://ue5wiki.com/wiki/12624/)
+- [UE 反射实现分析：反射代码生成（一）](https://ue5wiki.com/wiki/9780/)
+- [属性反射实现分析](https://ue5wiki.com/wiki/34497/)
+- [UClass的诞生与成长](https://www.wyfnote.com/2021/11/08/UE4/UE4CPP/UClass%E7%9A%84%E8%AF%9E%E7%94%9F%E4%B8%8E%E6%88%90%E9%95%BF/)
+- [UE5的StructUtils - quabqi](https://zhuanlan.zhihu.com/p/601008587)
+### GC
+- [UE4 垃圾回收 by南京周润发](https://zhuanlan.zhihu.com/p/67055774)
+- [UE4 垃圾回收（二）GC Cluster by南京周润发](https://zhuanlan.zhihu.com/p/133293284)
+- [UE4 垃圾收集大杂烩](https://zhuanlan.zhihu.com/p/219588301)
+- [Garbage Collector Internals](https://forums.unrealengine.com/docs?topic=501800)
+### 序列化
+- [UE4对象系统_序列化和uasset文件格式](https://www.jianshu.com/p/9fea500aaa4d)
+- [浅谈UE4序列化系列\(1\) 结合用例浅谈 UE4序列化 - 佐味](https://zhuanlan.zhihu.com/p/426853528)
+- [Ue4_序列化浅析](https://blog.csdn.net/mohuak/article/details/83027211?ivk_sa=1024320u)
+- [深入理解UE4：反序列化流程详细分析 - 蛋丁的人参](https://zhuanlan.zhihu.com/p/96870468)
+- [Investigating blueprint data loss issues in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/oEn6/investigating-blueprint-data-loss-issues-in-unreal-engine)
+### 内存分配
+- [UE内存分配](https://www.cnblogs.com/timlly/p/13877623.html#143-%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D)
+- [UE4 MallocBinned分配器 - 南京周润发]( https://zhuanlan.zhihu.com/p/393382059)
+- [UE4 MallocBinned2分配器 - 南京周润发]( https://zhuanlan.zhihu.com/p/79715624)
+- [Mimalloc: Free List Sharding in Action](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf)
+### 多线程、Task Graph
+- [UE的多线程机制](https://www.cnblogs.com/timlly/p/14327537.html#24-ue%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B%E6%9C%BA%E5%88%B6)
+- Memory Order内存序
+
+## Tim Sweeney演讲
+- [Classic Tools Retrospective: Tim Sweeney on the first version of the Unreal Editor](https://www.gamedeveloper.com/design/classic-tools-retrospective-tim-sweeney-on-the-first-version-of-the-unreal-editor)
+- [On Netcode in Unreal Engine \(historical\) by Tim Sweeney:](https://docs.google.com/document/d/1KGLbEfHsWANTTgUqfK6rkpFYDGvnZYj-BN18sxq6LPY/edit)
+- [THE END OF THE GPU ROADMAP](https://disruptiveludens.files.wordpress.com/2018/02/timhpg2009.pdf)
+- [Tim Sweeney Archive - Interviews](http://docshare01.docshare.tips/files/9/93932.pdf)
 
 ---
- ![71f9d8b102826e918d3f728f62b87c86.png](evernotecid://653B50AC-AA6A-4323-BF99-2F946CAADFF4/appyinxiangcom/30731409/ENResource/p1773)
+ ![b34ff6fb6975bbbb78b817f5cc291cb3.png](en-resource://database/6156:1)
  [印象笔记](https://app.yinxiang.com/fx/b8036eb6-dddd-4d4e-af8b-2e33abcaf135)
  
 ---
