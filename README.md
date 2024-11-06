@@ -117,6 +117,7 @@
 - [UE5 移动同步的一些细节 - 星辰大海](https://zhuanlan.zhihu.com/p/611423857)
 ### 角色移动Mover
 - [An Introduction to the Mover Plugin | Unreal Fest 2024](https://www.youtube.com/watch?v=P4IKS5k47Wg)
+- [【\[UFSH2024\]下一代移动组件Mover2.0前瞻 | 陈宝康 ](https://www.bilibili.com/video/BV18F2oYAEQe/)
 
 ### GAS
 - [官方GAS文档](https://docs.unrealengine.com/5.3/en-US/gameplay-ability-system-for-unreal-engine/)
@@ -207,6 +208,7 @@
 - [在蓝图实现任意类型数组排序](https://zhuanlan.zhihu.com/p/127344363)
 - [深入Unreal蓝图开发：将异步操作封装为蓝图节点](https://neil3d.github.io/unreal/bp-async.html)
 - [虚幻引擎蓝图节点原理机制源码剖析 - MarsZhou](https://zhuanlan.zhihu.com/p/706095370)
+- [深入蓝图编译和运行（一）猫都能看懂，以实际例子解析蓝图函数编译运行原理 - Evian反过来](https://zhuanlan.zhihu.com/p/718930962)
 ### 蓝图与C++的平衡
 - [蓝图与C++](https://www.zhihu.com/question/268297447/answer/339624785)
 - [蓝图 VS C++](https://zhuanlan.zhihu.com/p/450520990)
@@ -475,7 +477,7 @@ DepthPass、GBuffer、lighting
 ## 面光源
 ## 体积雾
 ## GI
-### Lumen
+
 
 ## Unreal渲染
 - [HOW UNREAL RENDERS A FRAME](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
@@ -496,8 +498,10 @@ DepthPass、GBuffer、lighting
 - [\[UFSH2023\]渲染路线图：更快更真实、更多数据和像素 | 王祢 Epic Games](https://www.bilibili.com/video/BV1Qi4y1q7v2/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
 ### UE多线程渲染
 - [UE多线程渲染](https://www.bilibili.com/video/BV1sP4y117Dg) 
-- VirtualTexture
+- [\[UFSH2024\]虚幻引擎5新RHI提交管线框架介绍 | 刘炜 ]( https://www.bilibili.com/video/BV1ie2LYZEkW/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
+### VirtualTexture
 - [【\[UnrealCircle深圳\]深入虚拟纹理 | Epic 李杨珂】](https://www.bilibili.com/video/BV1CA411N7Qa/)
+### Lumen
 
 ## 技术分享
 - [米哈游技术总监首次分享：移动端高品质卡通渲染的实现与优化方案](https://mp.weixin.qq.com/s/2ObPsPQGPkvPyiLD33wqWQ)
