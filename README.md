@@ -37,51 +37,12 @@
 - [剖析虚幻渲染体系（01）- 综述和基础](https://zhuanlan.zhihu.com/p/546436435)
 - [现代图形引擎入门指南（Unreal Engine）— 基础编程 - Italink](https://zhuanlan.zhihu.com/p/636151878)
 
-# Core
-## UObject
-- 大钊的UObject系列
-    - [《InsideUE4》UObject（一）开篇](https://zhuanlan.zhihu.com/p/24319968)
-    - [《InsideUE4》UObject（三）类型系统设定和结构](https://zhuanlan.zhihu.com/p/24790386) 
-    - [《InsideUE4》UObject（六）类型系统代码生成重构-UE4CodeGen_Private](https://zhuanlan.zhihu.com/p/34059049)
-    - [《InsideUE4》UObject（九）类型系统注册-InitUObject](https://zhuanlan.zhihu.com/p/58244447)
-    - [《InsideUE4》UObject（十一）类型系统构造-构造绑定链接](https://zhuanlan.zhihu.com/p/59553490)
-- [Ue4关于uobject优秀文摘](https://zhuanlan.zhihu.com/p/435484362)
-- [UE4 UObject 对象概念](https://zhuanlan.zhihu.com/p/419769230)
-- [用UObjectHashTables管理UObjectHash](https://zhuanlan.zhihu.com/p/464960701)
-- [UE4 NewObject CreateDefaultSubobject - YaoJ1aHao](https://zhuanlan.zhihu.com/p/683757774)
-## 反射
-- [UE 反射实现分析：基础概念](https://ue5wiki.com/wiki/12624/)
-- [UE 反射实现分析：反射代码生成（一）](https://ue5wiki.com/wiki/9780/)
-- [属性反射实现分析](https://ue5wiki.com/wiki/34497/)
-- [UClass的诞生与成长](https://www.wyfnote.com/2021/11/08/UE4/UE4CPP/UClass%E7%9A%84%E8%AF%9E%E7%94%9F%E4%B8%8E%E6%88%90%E9%95%BF/)
-- [UE5的StructUtils - quabqi](https://zhuanlan.zhihu.com/p/601008587)
-- [UE5标识符详解 | 史上最全 - 大钊](https://zhuanlan.zhihu.com/p/717920216)
-## GC
-- [UE4 垃圾回收 by南京周润发](https://zhuanlan.zhihu.com/p/67055774)
-- [UE4 垃圾回收（二）GC Cluster by南京周润发](https://zhuanlan.zhihu.com/p/133293284)
-- [UE4 垃圾收集大杂烩](https://zhuanlan.zhihu.com/p/219588301)
-- [Garbage Collector Internals](https://forums.unrealengine.com/docs?topic=501800)
-## 序列化
-- [UE4对象系统_序列化和uasset文件格式](https://www.jianshu.com/p/9fea500aaa4d)
-- [浅谈UE4序列化系列\(1\) 结合用例浅谈 UE4序列化 - 佐味](https://zhuanlan.zhihu.com/p/426853528)
-- [Ue4_序列化浅析](https://blog.csdn.net/mohuak/article/details/83027211?ivk_sa=1024320u)
-- [深入理解UE4：反序列化流程详细分析 - 蛋丁的人参](https://zhuanlan.zhihu.com/p/96870468)
-- [Investigating blueprint data loss issues in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/oEn6/investigating-blueprint-data-loss-issues-in-unreal-engine)
-- [UE4 序列化与反序列化\(概述\) - YaoJ1aHao](https://zhuanlan.zhihu.com/p/701482249)
-- [UE4 序列化流程源码解析 - YaoJ1aHao](https://zhuanlan.zhihu.com/p/701516868)
-## 内存分配
-- [UE内存分配](https://www.cnblogs.com/timlly/p/13877623.html#143-%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D)
-- [UE4 MallocBinned分配器 - 南京周润发]( https://zhuanlan.zhihu.com/p/393382059)
-- [UE4 MallocBinned2分配器 - 南京周润发]( https://zhuanlan.zhihu.com/p/79715624)
-- [Mimalloc: Free List Sharding in Action](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf)
-- [mimalloc研究报告 - co lin](https://zhuanlan.zhihu.com/p/370239503)
-## 多线程、Task Graph
-- [UE的多线程机制](https://www.cnblogs.com/timlly/p/14327537.html#24-ue%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B%E6%9C%BA%E5%88%B6)
-- Memory Order内存序
-
 # GamePlay
 -  [大钊的《InsideUE》](https://zhuanlan.zhihu.com/p/22813908)，强烈建议刚入门的时候先看这个系列
--  [UE的基础体系和概念](https://www.cnblogs.com/timlly/p/13877623.html#14-%E5%BC%95%E6%93%8E%E6%A8%A1%E5%9D%97)    
+-  [UE的基础体系和概念](https://www.cnblogs.com/timlly/p/13877623.html#14-%E5%BC%95%E6%93%8E%E6%A8%A1%E5%9D%97)  
+## Lyra
+-  [Lyra Starter Game Overview | Tech Talk | State of Unreal 2022](https://youtu.be/Fj1zCsYydD8?si=UET2ZRsIrivvFuIY)  
+-  [Lyra工程解读——PPT分享](https://zhuanlan.zhihu.com/p/542781905)
   
 ## 生命周期、启动流程、主循环
 - [Actor 生命周期](https://docs.unrealengine.com/4.26/zh-CN/ProgrammingAndScripting/ProgrammingWithCPP/UnrealArchitecture/Actors/ActorLifecycle/)
@@ -97,29 +58,71 @@
 
 
 # 3C
+## 动画系统
+- [动画蓝图官方文档](https://docs.unrealengine.com/4.26/zh-CN/AnimatingObjects/SkeletalMeshAnimation/)
+- [UE4动画系统初探 - BlackPlume](https://zhuanlan.zhihu.com/p/439150072)
+- [输入输出的艺术—UE4骨骼动画管道框架 - 左加右](https://zhuanlan.zhihu.com/p/511522423)
+- [UE动画管道原理分析（二）：节点树的驱动 - 左加右](https://zhuanlan.zhihu.com/p/484387479)
+- [UE4动画系统的那些事（一）：UE4动画系统基础](https://zhuanlan.zhihu.com/p/62401630)
+- [骨骼动画系统——UE4动画蓝图的使用和图元基础原理\(二\)](https://zhuanlan.zhihu.com/p/463171975)
+- [解析UE动画系统--核心实现 - 星辰大海](https://zhuanlan.zhihu.com/p/560801479)
+- [UE5 白话Lyra动画系统 - Isaac](https://zhuanlan.zhihu.com/p/654430436)
+- [Animation Blueprint Setup & Walkthrough](https://www.youtube.com/playlist?list=PLCYUI4mIdqDdxG1oat5uXS6P-U2nR_bNY)
+- [UE4 动画节点- Layered blend per bone](https://zhuanlan.zhihu.com/p/343826476)
+- [玩转UE4/UE5动画系统](https://www.zhihu.com/column/c_1368817227106471936)
+- [UE4 动画系统 源码及原理剖析](http://t.csdn.cn/9ZgYW)
+- [UE4/UE5 动画的原理和性能优化 - quabqi](https://zhuanlan.zhihu.com/p/545596818)
+- [Unreal 动画系统：从编辑器到Runtime——状态机节点 StateMachine源码分析 - 陈可](https://zhuanlan.zhihu.com/p/376821209)
+- 调试
+    - [动画调试利器Rewind Debugger](https://docs.unrealengine.com/5.3/en-US/animation-rewind-debugger-in-unreal-engine/)
+- Montage
+    - [Slot Groups](https://dev.epicgames.com/documentation/en-us/unreal-engine/animation-slots-in-unreal-engine#slotgroups)
+    - [虚幻引擎图文笔记：什么是蒙太奇（Montage）之 概念和原理 - 开发游戏的老王](https://zhuanlan.zhihu.com/p/346332068)
+- RootMotion
+    - [《Exploring in UE4》RootMotion详解](https://zhuanlan.zhihu.com/p/74554876)
+    - [RootMotion官方文档](https://docs.unrealengine.com/4.27/zh-CN/AnimatingObjects/SkeletalMeshAnimation/RootMotion/) 
+- IK
+    - [【游戏开发】逆向运动学（IK）详解 - 爱吃菠萝不吃萝卜](https://zhuanlan.zhihu.com/p/499405167)
+    - [《刺客信条》基于预测的FootIK方案分析与UE4实现 - 左加右](https://zhuanlan.zhihu.com/p/552056254)
+- TurnInPlace
+    - [UE5 Lyra动画解析-原地转身 - 南京周润发](https://zhuanlan.zhihu.com/p/655380097)
+### Lyra动画
+- [UE5的动画蓝图（Lyra工程） - quabqi](https://zhuanlan.zhihu.com/p/517368184)
+### GAMES104动画系列
+- [08.游戏引擎的动画技术基础\(上\) | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1jr4y1t7WR/)
+- [08.游戏引擎的动画技术基础\(下\) | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1fF411j7hA/)
+- [09.高级动画技术：动画树、IK和表情动画 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1pY411F7pA/)
+### Advanced Locomotion System
+- [虚幻4（UE4） 动画技术 深入浅出 高级运动系统](https://www.bilibili.com/video/BV12f4y1r71N?spm_id_from=333.999.0.0)
+- [UE4-高级运动系统中文-解构\(Advanced Locomotion System V4\)](https://www.bilibili.com/video/BV1sV411b7x6)
+- [UE4 高级运动系统（Advanced Locomotion System V4）解构](https://zhuanlan.zhihu.com/p/339422628)
+### Motion Matching
+- [简单聊聊Motion Matching - 奶帆](https://zhuanlan.zhihu.com/p/378189446)
+- [UE5 MotionMatching原理解析 - 雪流星](https://zhuanlan.zhihu.com/p/586248403)
+- [Motion Matching](https://dev.epicgames.com/documentation/en-us/unreal-engine/motion-matching-in-unreal-engine)
+
 ## 相机
 - [《Exploring in UE4》摄像机系统解析 ](https://zhuanlan.zhihu.com/p/34897458)
 - [虚幻引擎相机系统原理机制源码剖析](https://mp.weixin.qq.com/s/m7b-IjnnLt-MHnGWfw82yg)
+- [UE5 虚幻实验性功能-GameplayCameraSystem分析（2）摄像机框架](https://zhuanlan.zhihu.com/p/19835747963)
+- [Lyra中的相机系统 - 小木子](https://zhuanlan.zhihu.com/p/10432602003)
+- [Gameplay Camera System Overview](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-camera-system-overview#systemdesign)
 ## EnhancedInput
 -  [【\[中文直播\]第39期 | 虎跳龙拿--新一代增强输入框架EnhancedInput | Epic 大钊】](https://www.bilibili.com/video/BV14r4y1r7nz/)
 -  [UE5 -- EnhancedInput\(增强输入系统\) - 易米八一 - 知乎](https://zhuanlan.zhihu.com/p/470949422)
-## 背包、装备
-[UE5 Lyra项目学习（三） 背包，装备，武器模块 - 知乎](https://zhuanlan.zhihu.com/p/598305282)
-## MetaHuman
-- [\[UnrealCircle成都\]MetaHuman原理及流程浅析 - Epic Games China｜孙丹璐](https://www.bilibili.com/video/BV1rf4y1Y7S5/)
+
 ## Character
 ### 角色移动CMC
 - [Networked Movement in the Character Movement Component](https://dev.epicgames.com/documentation/en-us/unreal-engine/understanding-networked-movement-in-the-character-movement-component-for-unreal-engine)
 - [UE4的移动碰撞](https://zhuanlan.zhihu.com/p/33529865)
 - [《Exploring in UE4》移动组件详解](https://zhuanlan.zhihu.com/p/34257208)
 - [UE4移动的网络同步](https://zhuanlan.zhihu.com/p/114341957)
-- [UE4 物体位置同步相关源码分析浅谈](https://zhuanlan.zhihu.com/p/68343945)
 - [UE5 移动同步的一些细节 - 星辰大海](https://zhuanlan.zhihu.com/p/611423857)
 ### 角色移动Mover
 - [An Introduction to the Mover Plugin | Unreal Fest 2024](https://www.youtube.com/watch?v=P4IKS5k47Wg)
 - [【\[UFSH2024\]下一代移动组件Mover2.0前瞻 | 陈宝康 ](https://www.bilibili.com/video/BV18F2oYAEQe/)
 
-### GAS
+## GAS
 - [官方GAS文档](https://docs.unrealengine.com/5.3/en-US/gameplay-ability-system-for-unreal-engine/)
 - [Abilities in Lyra](https://docs.unrealengine.com/5.3/en-US/abilities-in-lyra-in-unreal-engine/)
 - [GASDocumentation](https://github.com/tranek/GASDocumentation)
@@ -137,44 +140,12 @@
 - [虚幻插件GAS分析10 所有AbilityTask原生类盘点](https://zhuanlan.zhihu.com/p/431081292)
 - [UE技能系统—2.GameplayEffect 你用废了吗？\(一\)](https://zhuanlan.zhihu.com/p/544114620)
 - [GameplayAbility框架在《幻塔》手游中的应用及优化](https://www.unrealengine.com/zh-CN/tech-blog/usage-and-optimization-of-gameplayability-frame-in-the-tower-of-fantasy)
-### 动画系统
-- [动画蓝图官方文档](https://docs.unrealengine.com/4.26/zh-CN/AnimatingObjects/SkeletalMeshAnimation/)
-- [UE4动画系统初探 - BlackPlume](https://zhuanlan.zhihu.com/p/439150072)
-- [输入输出的艺术—UE4骨骼动画管道框架 - 左加右](https://zhuanlan.zhihu.com/p/511522423)
-- [UE动画管道原理分析（二）：节点树的驱动 - 左加右](https://zhuanlan.zhihu.com/p/484387479)
-- [UE4动画系统的那些事（一）：UE4动画系统基础](https://zhuanlan.zhihu.com/p/62401630)
-- [骨骼动画系统——UE4动画蓝图的使用和图元基础原理\(二\)](https://zhuanlan.zhihu.com/p/463171975)
-- [解析UE动画系统--核心实现 - 星辰大海](https://zhuanlan.zhihu.com/p/560801479)
-- [UE5 白话Lyra动画系统 - Isaac](https://zhuanlan.zhihu.com/p/654430436)
-- [Animation Blueprint Setup & Walkthrough](https://www.youtube.com/playlist?list=PLCYUI4mIdqDdxG1oat5uXS6P-U2nR_bNY)
-- [UE4 动画节点- Layered blend per bone](https://zhuanlan.zhihu.com/p/343826476)
-- [玩转UE4/UE5动画系统](https://www.zhihu.com/column/c_1368817227106471936)
-- [UE4 动画系统 源码及原理剖析](http://t.csdn.cn/9ZgYW)
-- 调试
-    - [动画调试利器Rewind Debugger](https://docs.unrealengine.com/5.3/en-US/animation-rewind-debugger-in-unreal-engine/)
-- Montage
-    - [Slot Groups](https://dev.epicgames.com/documentation/en-us/unreal-engine/animation-slots-in-unreal-engine#slotgroups)
-    - [虚幻引擎图文笔记：什么是蒙太奇（Montage）之 概念和原理 - 开发游戏的老王](https://zhuanlan.zhihu.com/p/346332068)
-- RootMotion
-    - [《Exploring in UE4》RootMotion详解](https://zhuanlan.zhihu.com/p/74554876)
-    - [RootMotion官方文档](https://docs.unrealengine.com/4.27/zh-CN/AnimatingObjects/SkeletalMeshAnimation/RootMotion/) 
-- IK
-    - [【游戏开发】逆向运动学（IK）详解 - 爱吃菠萝不吃萝卜](https://zhuanlan.zhihu.com/p/499405167)
-    - [《刺客信条》基于预测的FootIK方案分析与UE4实现 - 左加右](https://zhuanlan.zhihu.com/p/552056254)
-#### Lyra动画
-- [UE5的动画蓝图（Lyra工程） - quabqi](https://zhuanlan.zhihu.com/p/517368184)
-#### GAMES104动画系列
-- [08.游戏引擎的动画技术基础\(上\) | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1jr4y1t7WR/)
-- [08.游戏引擎的动画技术基础\(下\) | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1fF411j7hA/)
-- [09.高级动画技术：动画树、IK和表情动画 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1pY411F7pA/)
-#### Advanced Locomotion System
-- [虚幻4（UE4） 动画技术 深入浅出 高级运动系统](https://www.bilibili.com/video/BV12f4y1r71N?spm_id_from=333.999.0.0)
-- [UE4-高级运动系统中文-解构\(Advanced Locomotion System V4\)](https://www.bilibili.com/video/BV1sV411b7x6)
-- [UE4 高级运动系统（Advanced Locomotion System V4）解构](https://zhuanlan.zhihu.com/p/339422628)
-#### Motion Matching
-- [简单聊聊Motion Matching - 奶帆](https://zhuanlan.zhihu.com/p/378189446)
-- [UE5 MotionMatching原理解析 - 雪流星](https://zhuanlan.zhihu.com/p/586248403)
-- [Motion Matching](https://dev.epicgames.com/documentation/en-us/unreal-engine/motion-matching-in-unreal-engine)
+- [GAS-GE-5.0属性修正 - 书生](https://zhuanlan.zhihu.com/p/6959047433)
+- [GAS-GE-7.0扩展效果之GE组件 - 书生](https://zhuanlan.zhihu.com/p/7631485885)
+## 背包、装备
+[UE5 Lyra项目学习（三） 背包，装备，武器模块 - 知乎](https://zhuanlan.zhihu.com/p/598305282)
+## MetaHuman
+- [\[UnrealCircle成都\]MetaHuman原理及流程浅析 - Epic Games China｜孙丹璐](https://www.bilibili.com/video/BV1rf4y1Y7S5/)
 
 # 编程语言、脚本
 ## C++
@@ -200,6 +171,7 @@
 ### Modules & Plugins
 - [Getting into C++ with Unreal Engine - Part 7 - Modules & Plugins](https://www.youtube.com/watch?v=-r4OmyrFC30)
 - [UE4 Modules](https://docs.google.com/presentation/d/1rSFFQk7RxNAHevROfVvUNviUfIntLkO_HpdvzHLkNEs/view#slide=id.g6e0e4b3bcf_2_45)
+- [Unreal Engine Modules](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-modules)
 
 ## 蓝图
 - [通过派生class UK2Node创建自定义蓝图节点 - 房燕良](https://zhuanlan.zhihu.com/p/84958215)
@@ -307,6 +279,7 @@
 - HTN插件官方文档[Hierarchical Task Networks](https://maksmaisak.github.io/htn/#/README)
 ## 状态树
 - [从行为树到状态树](https://www.bilibili.com/video/BV1ed4y1b7Zk)
+- [State Tree Deep Dive | Unreal Fest 2024](https://youtu.be/YEmq4kcblj4?si=NuLvU-f0F4-o1Ntj)
 # Mass
 - [UOD2022 不Mass怎么Meta | Epic 大钊](https://www.bilibili.com/video/BV13D4y1v7xx)        
 - [UE5的ECS：MASS框架\(一\) - quabqi](https://zhuanlan.zhihu.com/p/441773595)
@@ -316,6 +289,7 @@
 - [ZoneGraph Quick Start Guide](https://dev.epicgames.com/community/learning/tutorials/qz6r/unreal-engine-zonegraph-quick-start-guide)      
 - [Mass Avoidance Overview](https://docs.unrealengine.com/5.1/en-US/mass-avoidance-overview-in-unreal-engine/)
 - [UE5 Mass初体验 - 江湖非](https://zhuanlan.zhihu.com/p/656677641)
+- [UE5的CitySample启示录\(一\) - 吕文伟](https://zhuanlan.zhihu.com/p/12490880762)
 
 # 网络同步
 - [Replicate Actor Properties](https://dev.epicgames.com/documentation/en-us/unreal-engine/replicate-actor-properties-in-unreal-engine)
@@ -332,21 +306,26 @@
 - [UE4网络同步详解](https://zhuanlan.zhihu.com/p/533754693)
 - [UE4网络同步-客户端连接DS的流程](https://zhuanlan.zhihu.com/p/533748683)
 - [UE4属性同步（一）服务器同步属性 - 南京周润发](https://zhuanlan.zhihu.com/p/412517987)
-- [UE4属性同步（三）UObject同步 - 南京周润发](知乎https://zhuanlan.zhihu.com/p/590990669)
+- [UE4属性同步（三）UObject同步 - 南京周润发](https://zhuanlan.zhihu.com/p/590990669)
 - [《Exploring in UE4》Unreal回放系统剖析](https://zhuanlan.zhihu.com/p/564017214)
 - [An Overview of Net Serialization and how this all works](https://ikrima.dev/ue4guide/networking/network-replication/detailed-network-serialization/)
+- FFastArraySerializer
+- [UE 网络通信-3.0收发包详解 - 书生](https://zhuanlan.zhihu.com/p/23588854257)
 ## Replication Graph
     - [Overview of the Replication Graph feature and Replication Graph Nodes.](https://dev.epicgames.com/documentation/en-us/unreal-engine/replication-graph-in-unreal-engine)
     - [Replication Graph overview and proper replication methods](https://www.unrealengine.com/en-US/tech-blog/replication-graph-overview-and-proper-replication-methods)
     - [Networking in 4.20: The Replication Graph](https://www.youtube.com/live/CDnNAAzgltw?si=zmpH0A2NUjZF-Q-2)
     - [\[UE4\] Networking - ReplicationGraph \(Tutorial & Overview\)](https://www.youtube.com/watch?v=7P11RwKfuEM)
-
+## Iris
+- [Introduction to Iris](https://dev.epicgames.com/documentation/en-us/unreal-engine/introduction-to-iris-in-unreal-engine)
 # 物理
 - [10.游戏引擎中物理系统的基础理论和算法 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV16U4y117VU)
 - [11.物理系统：高级应用 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1Ya411j7ds)
 - [Collision Filtering -By James Golding](https://www.unrealengine.com/en-US/blog/collision-filtering)
 - [Collision Data in UE5: Practical Tips for Managing Collision Settings & Queries | Unreal Fest 2023](https://youtu.be/xIQI6nXFygA?si=BI3ep9-b8ZFzq6KW)
+- [游戏物理引擎\(二\) 碰撞检测之Broad-Phase](https://zhuanlan.zhihu.com/p/113415779)
 ## 载具
+[\[UOD2022\]物理载具的网络同步 | Epic 李洁](https://www.bilibili.com/video/BV1Ye4y1s7tT/)
 ## 布料
 
 # 材质
@@ -357,7 +336,14 @@
     - [https://www.bilibili.com/video/BV1Ap4y1q7L9](https://www.bilibili.com/video/BV1Ap4y1q7L9)
     - [https://www.bilibili.com/video/BV1uD4y1U7Nz](https://www.bilibili.com/video/BV1uD4y1U7Nz)
 
-# 大世界
+# 剧情任务
+- [FlowGraph插件](https://github.com/MothCocoon/FlowGraph/wiki)
+
+# 关卡
+## 无缝地图切换
+- [《Exploring in UE4》流关卡与无缝地图切换\[经验总结\] - Jerish](https://zhuanlan.zhihu.com/p/34397446)
+- [Unreal Engine Persistent Data Compendium](https://wizardcell.com/unreal/persistent-data/)
+- [Unreal Engine 持续数据纲要 - 李四](https://zhuanlan.zhihu.com/p/1887527292563083791)
 ## World Partition
 - [World Partition浅析（四）- 陌冉](
 https://zhuanlan.zhihu.com/p/384487506)
@@ -373,6 +359,7 @@ https://zhuanlan.zhihu.com/p/384487506)
 - [Electric Dreams PCG技术详解（三）——森林、岩石和场景背景](https://mp.weixin.qq.com/s/YWcd8l-VphNLrOlg3zkSzA)
 - [Electric Dreams PCG技术详解（四）——远景、雾气、自定义节点及子图表](https://mp.weixin.qq.com/s/CWTUcRIBTXw8WvhX3jrcBw?poc_token=HAo7c2WjSnpSCvQrSxn-FgoWdSsvm3Zr2tggFZbt)
 - [UE5程序化内容生成\(PCG\)](https://www.zhihu.com/column/c_1655695457748680704)
+- [PCG：UE 5.5中的新功能及进阶话题 | Unreal Fest 2024](https://www.bilibili.com/video/BV1GtqBYfEko/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
 # 资源管理、加载
 - [UE4：Asset Manager 学习笔记](https://zhuanlan.zhihu.com/p/360543561)
 - [UE4的资源管理 quabqi](https://zhuanlan.zhihu.com/p/357904199)
@@ -406,18 +393,66 @@ https://zhuanlan.zhihu.com/p/384487506)
 # 编辑器
 - [虚幻引擎 4 的编辑器扩展 柴云天](https://www.bilibili.com/video/BV1bs411H7Kd?p=14&vd_source=1c85f9fb99f55a3e4793d86d9b0f37be)
 - [Extending the Editor: Making the Most of Unreal Engine’s Existing Framework | Unreal Fest 2024](https://youtu.be/ovpiYkYFlPM?si=YEEjTG-hBq1F_83W)
+- [\[UFSH2024\]打造你的专属虚幻引擎 | 陈拓 Epic Games 软件工程师 开发者关系](https://www.bilibili.com/video/BV1vi2LY4EzC/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
 - [《调教UE5：编辑器拓展指南》常用模块 - Helo](https://zhuanlan.zhihu.com/p/606722605)
-- [《调教UE5：编辑器拓展指南》编辑器拓展基础 - Helo](https://zhuanlan.zhihu.com/p/605181368)
-- [Details Panel Customization](https://docs.unrealengine.com/5.2/en-US/details-panel-customization-in-unreal-engine/)
-- [【UE4】编辑器开发（四）属性面板（Details）拓展 - 胡嘿嘿](https://zhuanlan.zhihu.com/p/135316945)
-- [【UE4】编辑器开发（三）资源类型拓展 - 胡嘿嘿](https://zhuanlan.zhihu.com/p/135315547)
-- [【UE4】编辑器开发（一）关卡编辑器拓展 - 胡嘿嘿](https://zhuanlan.zhihu.com/p/129708783)
+- [Details Panel Customization](https://dev.epicgames.com/documentation/en-us/unreal-engine/details-panel-customizations-in-unreal-engine)
 - [13.引擎工具链基础 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV11T411G7qB/)
 - [14.引擎工具链高级概念与应用 | GAMES104-现代游戏引擎：从入门到实践](https://www.bilibili.com/video/BV1QN4y1u78P/)
+- [一文搞懂 UE5 用C++编辑蓝图资产全方法（最详细版） - 子衿](https://zhuanlan.zhihu.com/p/9413775239)
+- [Unreal Engine 5 开发 — Slate基础 - Italink](https://zhuanlan.zhihu.com/p/636153935)
+- [实践UE的ComponentVisualizer（组件可视化）的基础功能](https://blog.csdn.net/u013412391/article/details/120282103)
+- [《调教UE5：编辑器拓展指南》Toolkit 探索 - Helo](https://zhuanlan.zhihu.com/p/648334402)
+- [《调教UE5：编辑器拓展指南》EditorMode 探索 - Helo](https://zhuanlan.zhihu.com/p/641521580)
+- [《调教UE5：编辑器拓展指南》Tab 探索 - Helo](https://zhuanlan.zhihu.com/p/628655599)
+- [《调教UE5：编辑器拓展指南》Command 探索 - Helo](https://zhuanlan.zhihu.com/p/627517800)
 
 # UE技巧
 - [【国语翻译】你不知道的100个虚幻引擎UE5技巧！！看完菜鸡变老手
 ](https://www.bilibili.com/video/BV1EE421w7cs/)
+
+# Core
+## UObject
+- 大钊的UObject系列
+    - [《InsideUE4》UObject（一）开篇](https://zhuanlan.zhihu.com/p/24319968)
+    - [《InsideUE4》UObject（三）类型系统设定和结构](https://zhuanlan.zhihu.com/p/24790386) 
+    - [《InsideUE4》UObject（六）类型系统代码生成重构-UE4CodeGen_Private](https://zhuanlan.zhihu.com/p/34059049)
+    - [《InsideUE4》UObject（九）类型系统注册-InitUObject](https://zhuanlan.zhihu.com/p/58244447)
+    - [《InsideUE4》UObject（十一）类型系统构造-构造绑定链接](https://zhuanlan.zhihu.com/p/59553490)
+- [Ue4关于uobject优秀文摘](https://zhuanlan.zhihu.com/p/435484362)
+- [UE4 UObject 对象概念](https://zhuanlan.zhihu.com/p/419769230)
+- [用UObjectHashTables管理UObjectHash](https://zhuanlan.zhihu.com/p/464960701)
+- [UE4 NewObject CreateDefaultSubobject - YaoJ1aHao](https://zhuanlan.zhihu.com/p/683757774)
+## 反射
+- [UE 反射实现分析：基础概念](https://ue5wiki.com/wiki/12624/)
+- [UE 反射实现分析：反射代码生成（一）](https://ue5wiki.com/wiki/9780/)
+- [属性反射实现分析](https://ue5wiki.com/wiki/34497/)
+- [UClass的诞生与成长](https://www.wyfnote.com/2021/11/08/UE4/UE4CPP/UClass%E7%9A%84%E8%AF%9E%E7%94%9F%E4%B8%8E%E6%88%90%E9%95%BF/)
+- [UE5的StructUtils - quabqi](https://zhuanlan.zhihu.com/p/601008587)
+- [UE5标识符详解 | 史上最全 - 大钊](https://zhuanlan.zhihu.com/p/717920216)
+## GC
+- [UE4 垃圾回收 by南京周润发](https://zhuanlan.zhihu.com/p/67055774)
+- [UE4 垃圾回收（二）GC Cluster by南京周润发](https://zhuanlan.zhihu.com/p/133293284)
+- [UE4 垃圾收集大杂烩](https://zhuanlan.zhihu.com/p/219588301)
+- [Garbage Collector Internals](https://forums.unrealengine.com/docs?topic=501800)
+- [探究UE中的神秘标记RF_StrongRefOnFrame - 江湖非](https://zhuanlan.zhihu.com/p/25564831879)
+## 序列化
+- [UE4对象系统_序列化和uasset文件格式](https://www.jianshu.com/p/9fea500aaa4d)
+- [浅谈UE4序列化系列\(1\) 结合用例浅谈 UE4序列化 - 佐味](https://zhuanlan.zhihu.com/p/426853528)
+- [Ue4_序列化浅析](https://blog.csdn.net/mohuak/article/details/83027211?ivk_sa=1024320u)
+- [深入理解UE4：反序列化流程详细分析 - 蛋丁的人参](https://zhuanlan.zhihu.com/p/96870468)
+- [Investigating blueprint data loss issues in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/oEn6/investigating-blueprint-data-loss-issues-in-unreal-engine)
+- [UE4 序列化与反序列化\(概述\) - YaoJ1aHao](https://zhuanlan.zhihu.com/p/701482249)
+- [UE4 序列化流程源码解析 - YaoJ1aHao](https://zhuanlan.zhihu.com/p/701516868)
+## 内存分配
+- [UE内存分配](https://www.cnblogs.com/timlly/p/13877623.html#143-%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D)
+- [UE4 MallocBinned分配器 - 南京周润发]( https://zhuanlan.zhihu.com/p/393382059)
+- [UE4 MallocBinned2分配器 - 南京周润发]( https://zhuanlan.zhihu.com/p/79715624)
+- [Mimalloc: Free List Sharding in Action](https://www.microsoft.com/en-us/research/uploads/prod/2019/06/mimalloc-tr-v1.pdf)
+- [mimalloc研究报告 - co lin](https://zhuanlan.zhihu.com/p/370239503)
+## 多线程、Task Graph
+- [UE的多线程机制](https://www.cnblogs.com/timlly/p/14327537.html#24-ue%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B%E6%9C%BA%E5%88%B6)
+### Memory Order内存序
+- [Memory Barriers: a Hardware View for Software Hackers](http://www.rdrop.com/users/paulmck/scalability/paper/whymb.2010.06.07c.pdf)
 
 # 图形渲染
 -  [图形渲染收藏夹](https://www.zhihu.com/collection/593543973) 
@@ -438,6 +473,7 @@ https://zhuanlan.zhihu.com/p/384487506)
 - [HSL和HSV色彩空间](https://zh.wikipedia.org/wiki/HSL%E5%92%8CHSV%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4)
 - [色彩空间基础 - 章佳杰](https://zhuanlan.zhihu.com/p/24214731)
 - [色温、白平衡与色彩恒常性 - 章佳杰](https://zhuanlan.zhihu.com/p/27165715)
+
 ##### Tone mapping
 - [Tone mapping进化论 - 叛逆者](https://zhuanlan.zhihu.com/p/21983679)
 - [色品图是怎么来的？完整推导色品图！](https://www.bilibili.com/video/BV1E2421c7NM/)
@@ -481,6 +517,7 @@ DepthPass、GBuffer、lighting
 
 ## Unreal渲染
 - [HOW UNREAL RENDERS A FRAME](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/)
+- [From Texture to Display: The Color Pipeline of a Pixel in Unreal Engine | Unreal Fest 2024](https://youtu.be/II_rnWU7Uq8?si=HkQcIIaxoFV03nJi)
 - [Unreal Engine 4 Rendering Part 1: Introduction](https://medium.com/@lordned/unreal-engine-4-rendering-overview-part-1-c47f2da65346)
 - [虚幻引擎渲染流程原理机制源码剖析 - 卡德卡斯基](https://zhuanlan.zhihu.com/p/657669302)
 - [剖析虚幻渲染体系（04）- 延迟渲染管线 ](https://www.cnblogs.com/timlly/p/14732412.html)
@@ -496,9 +533,11 @@ DepthPass、GBuffer、lighting
 - [GAMES104-现代游戏引擎：从入门到实践22.GPU驱动的几何管线-nanite \(Part 2\)](https://www.bilibili.com/video/BV17G4y1x7VX/)
 - [How Epic Games is handling auto exposure in 4.25](https://www.unrealengine.com/en-US/tech-blog/how-epic-games-is-handling-auto-exposure-in-4-25)
 - [\[UFSH2023\]渲染路线图：更快更真实、更多数据和像素 | 王祢 Epic Games](https://www.bilibili.com/video/BV1Qi4y1q7v2/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
+- [Game engines and shader stuttering: Unreal Engine's solution to the problem](https://www.unrealengine.com/en-US/tech-blog/game-engines-and-shader-stuttering-unreal-engines-solution-to-the-problem)
+- [Game Engines & Shader Stuttering: UE's Solution](https://dev.epicgames.com/community/learning/tutorials/xjzE/unreal-engine-epic-for-indies-game-engines-shader-stuttering-ue-s-solution)
 ### UE多线程渲染
-- [UE多线程渲染](https://www.bilibili.com/video/BV1sP4y117Dg) 
-- [\[UFSH2024\]虚幻引擎5新RHI提交管线框架介绍 | 刘炜 ]( https://www.bilibili.com/video/BV1ie2LYZEkW/?share_source=copy_web&vd_source=c22d606e8257e108c7cdb17c595605b5)
+- [[UOD2022]多线程渲染 | Epic 刘炜](https://www.bilibili.com/video/BV1sP4y117Dg) 
+- [\[UFSH2024\]虚幻引擎5新RHI提交管线框架介绍 | 刘炜 ]( https://www.bilibili.com/video/BV1ie2LYZEkW/)
 ### VirtualTexture
 - [【\[UnrealCircle深圳\]深入虚拟纹理 | Epic 李杨珂】](https://www.bilibili.com/video/BV1CA411N7Qa/)
 ### Lumen
